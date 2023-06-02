@@ -1,4 +1,4 @@
-### ### 👋 Olá! Seja Bem Vindo (a)! 
+### 👋 Olá! Seja Bem Vindo (a)! 
 
 - 👩‍💻 Analista de Infraestrutura 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
