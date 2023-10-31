@@ -14,7 +14,11 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="VirtualBox" height="30" width="40" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Vagrant" height="30" width="40" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg">
 </div>
+
 
 
 ## Estatísticas do GitHub:
