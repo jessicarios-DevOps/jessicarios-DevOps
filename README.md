@@ -1,4 +1,4 @@
-# 👋 Olá! Seja Bem-vindo (a)! 
+# 👋 Olá! Seja Bem-vindo (a)!
 
 - 👩‍💻 **Analista de Infraestrutura**
 - 🌱 Cursando **Análise e Desenvolvimento de Sistemas**
@@ -14,11 +14,11 @@
 
 ## Estatísticas do GitHub:
 
-[![jessicarios-DevOps's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicarios-DevOps&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)](https://github.com/jessicarios-DevOps/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicarios-DevOps&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
 
 ## Principais Linguagens:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarios-DevOps&layout=compact&theme=tokyonight)](https://github.com/jessicarios-DevOps/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarios-DevOps&layout=compact&theme=tokyonight)
 
 ## Conecte-se comigo:
 
