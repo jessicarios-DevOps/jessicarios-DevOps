@@ -10,7 +10,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+  <img align="center" alt="Ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
+
 
 ## Estatísticas do GitHub:
 
