@@ -9,14 +9,11 @@
 - **Automação de Serviços:** 
 - **Gestão de Código:**
 - **Administração de Sistemas:** 
-- **Agendamento e E-mail:** 
 - **Gerenciamento de Processos:** 
-- **Listagem de Serviços:** 
-- **Controle de Processos de Navegação:**
-- **Desenvolvimento em Python:** 
-- **Desenvolvimento de API:** 
+- **Gerenciamento de API:** 
 - **Automação com Ansible:**
 - **Integração Contínua e Entrega Contínua (CI/CD):**
+- 
 
 Mantenho um foco especial em áreas relacionadas a DevOps e administração de sistemas. As tecnologias e habilidades mencionadas são fundamentais para o sucesso nesse campo.
 
