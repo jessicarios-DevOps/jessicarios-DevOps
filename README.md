@@ -1,49 +1,66 @@
 # 👋 Olá! Seja Bem-vindo (a)!
 
-- 👩‍💻 **Analista de Infraestrutura**
-- 🌱 Cursando **Análise e Desenvolvimento de Sistemas**
+- 👩‍💻 **Analista de Infraestrutura PL**
+- 🌱 Formação: **Análise e Desenvolvimento de Sistemas**
 
   ## Áreas de Atuação:
 
-- **Virtualização de Ambientes:** 
-- **Automação de Serviços:** 
-- **Gestão de Código:**
-- **Administração de Sistemas:** 
-- **Gerenciamento de Processos:** 
-- **Gerenciamento de API:** 
-- **Automação com Ansible:**
-- **Integração Contínua e Entrega Contínua (CI/CD):**
-- 
+- **Administração de Infraestrutura Linux:** 
+- **Cloud Computing & AWS:** 
+- **DevOps & Automação:**
+- **Containerização e Orquestração:** 
+- **Observabilidade e Monitoramento:** 
+- **Integração de Sistemas e Gerenciamento de APIs:** 
+  
+## 🚀 Tecnologias e Habilidades
 
-Mantenho um foco especial em áreas relacionadas a DevOps e administração de sistemas. As tecnologias e habilidades mencionadas são fundamentais para o sucesso nesse campo.
+**Amazon Web Services**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonelasticcontainerregistry&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Amazon%20VPC-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="45" />
+</p>
 
-- 👉 Aqui você encontrará alguns códigos para automatização, shell scripts e outros conteúdos voltados para programação em desenvolvimento, além de laboratórios que estou realizando.
+**Demais Tecnologias**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,docker,kubernetes,linux,jenkins,terraform,openshift" height="45" />
+  <img src="https://img.shields.io/badge/API%20REST-00C4B4?style=for-the-badge&logo=fastapi&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-E25A1C?style=for-the-badge&logo=apache&logoColor=white" height="45" />
+  </p>
 
-## Tecnologias que trabalho:
+**Monitoramento e Integração**
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Zabbix-00693E?style=for-the-badge&logo=zabbix&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" height="45" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-  <img align="center" alt="Ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="VirtualBox" height="30" width="40" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Vagrant" height="30" width="40" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg">
-</div>
+**Virtualização e Middleware**
+<p align="left">
+  <img src="https://img.shields.io/badge/VMware-00B1E3?style=for-the-badge&logo=vmware&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/VMware%20vCenter-00B1E3?style=for-the-badge&logo=vmware&logoColor=white" height="45" />
+</p>
 
+**IBM**
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM%20ACE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/IBM%20App%20Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/IBM%20DataPower-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="45" />
+</p>
 
+**Redes**
+<p align="left">
+  <img src="https://img.shields.io/badge/phpIPAM-777BB4?style=for-the-badge&logo=php&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/F5%20BIG-IP-E31C2B?style=for-the-badge&logo=f5&logoColor=white" height="45" />
+</p>
 
-## Estatísticas do GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicarios-DevOps&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
-
-## Principais Linguagens:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarios-DevOps&layout=compact&theme=tokyonight)
 
 ## Conecte-se comigo:
-
 <a href="https://www.linkedin.com/in/jessicariosdemelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
