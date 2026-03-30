@@ -27,10 +27,19 @@
 
 **Demais Tecnologias**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,docker,kubernetes,linux,jenkins,terraform,openshift" height="45" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/API%20REST-00C4B4?style=for-the-badge&logo=fastapi&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/Apache%20NiFi-E25A1C?style=for-the-badge&logo=apache&logoColor=white" height="45" />
-  </p>
+  <img src="https://img.shields.io/badge/VirtualBox-183A5E?style=for-the-badge&logo=virtualbox&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="45" />
+</p>
 
 **Monitoramento e Integração**
 <p align="left">
@@ -59,6 +68,17 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/F5%20BIG-IP-E31C2B?style=for-the-badge&logo=f5&logoColor=white" height="45" />
 </p>
+
+**Red Hat**
+<p align="left">
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Red%20Hat%20Satellite-EE0000?style=for-the-badge&logo=redhat&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Red%20Hat%20IDM-EE0000?style=for-the-badge&logo=redhat&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Ansible%20Automation%20Platform-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="45" />
+</p>
+
+
 
 
 ## Conecte-se comigo:
